@@ -10,9 +10,16 @@ python .\describe.py
 ### Graph analysis using graphs
 python .\histogram.py
 
+![alt text](https://github.com/Baushkiner/DSLR/blob/main/pictures/histogram.png)
+
 python .\scatter_plot.py
 
+![alt text](https://github.com/Baushkiner/DSLR/blob/main/pictures/scatter_plot.png)
+
+
 python .\pair_plot.py
+
+![alt text](https://github.com/Baushkiner/DSLR/blob/main/pictures/pair_plot.png)
 
 ### Reproduction LR - Train mode
 ##### Output - CSV file (weights.csv) with weights for each variable
